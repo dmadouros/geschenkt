@@ -2,25 +2,9 @@
 
 TODO: Write a gem description
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'geschenkt'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install geschenkt
-
 ## Usage
 
-TODO: Write usage instructions here
+bundle exec ./bin/geschenkt
 
 ## Contributing
 
