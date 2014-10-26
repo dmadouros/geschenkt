@@ -4,7 +4,7 @@ TODO: Write a gem description
 
 ## Usage
 
-bundle exec ./bin/geschenkt
+`bundle exec ./bin/geschenkt`
 
 ## Contributing
 
